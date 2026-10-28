@@ -1,0 +1,31 @@
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\bin\Debug\net10.0\appsettings.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\bin\Debug\net10.0\05.Custom Conventional Middleware Class.staticwebassets.endpoints.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\bin\Debug\net10.0\05.Custom Conventional Middleware Class.exe
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\bin\Debug\net10.0\05.Custom Conventional Middleware Class.deps.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\bin\Debug\net10.0\05.Custom Conventional Middleware Class.runtimeconfig.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\bin\Debug\net10.0\05.Custom Conventional Middleware Class.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\bin\Debug\net10.0\05.Custom Conventional Middleware Class.pdb
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\05.Custom Conventional Middleware Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\05.Custom Conventional Middleware Class.AssemblyInfoInputs.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\05.Custom Conventional Middleware Class.AssemblyInfo.cs
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\05.Custom Conventional Middleware Class.csproj.CoreCompileInputs.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\05.Custom Conventional Middleware Class.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\05.Custom Conventional Middleware Class.sourcelink.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\scopedcss\bundle\05.Custom Conventional Middleware Class.styles.css
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\05.Custom Conventional Middleware Class.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\refint\05.Custom Conventional Middleware Class.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\05.Custom Conventional Middleware Class.pdb
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\05.Custom Conventional Middleware Class.genruntimeconfig.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\ref\05.Custom Conventional Middleware Class.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\05.Custom Conventional Middleware Class\05.Custom Conventional Middleware Class\obj\Debug\net10.0\05.Custo.718587CE.Up2Date

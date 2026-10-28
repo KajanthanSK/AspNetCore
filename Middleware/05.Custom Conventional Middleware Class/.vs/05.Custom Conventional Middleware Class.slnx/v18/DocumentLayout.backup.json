@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\05.Custom Conventional Middleware Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AD667B-DBA7-4C92-A944-520CB9DAD513}|05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class.csproj|c:\\users\\mt-0119\\documents\\aspnetcore\\middleware\\05.custom conventional middleware class\\05.custom conventional middleware class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AD667B-DBA7-4C92-A944-520CB9DAD513}|05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class.csproj|solutionrelative:05.custom conventional middleware class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AD667B-DBA7-4C92-A944-520CB9DAD513}|05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class.csproj|c:\\users\\mt-0119\\documents\\aspnetcore\\middleware\\05.custom conventional middleware class\\05.custom conventional middleware class\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AD667B-DBA7-4C92-A944-520CB9DAD513}|05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class.csproj|solutionrelative:05.custom conventional middleware class\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AD667B-DBA7-4C92-A944-520CB9DAD513}|05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class.csproj|c:\\users\\mt-0119\\documents\\aspnetcore\\middleware\\05.custom conventional middleware class\\05.custom conventional middleware class\\custommiddleware\\hellocustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AD667B-DBA7-4C92-A944-520CB9DAD513}|05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class.csproj|solutionrelative:05.custom conventional middleware class\\custommiddleware\\hellocustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "05.Custom Conventional Middleware Class\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class\\CustomMiddleware\\MyCustomMiddleware.cs*",
+              "RelativeToolTip": "05.Custom Conventional Middleware Class\\CustomMiddleware\\MyCustomMiddleware.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:36:36.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class\\CustomMiddleware\\HelloCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "05.Custom Conventional Middleware Class\\CustomMiddleware\\HelloCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class\\CustomMiddleware\\HelloCustomMiddleware.cs*",
+              "RelativeToolTip": "05.Custom Conventional Middleware Class\\CustomMiddleware\\HelloCustomMiddleware.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:35:34.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class\\Program.cs",
+              "RelativeDocumentMoniker": "05.Custom Conventional Middleware Class\\Program.cs",
+              "ToolTip": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\05.Custom Conventional Middleware Class\\05.Custom Conventional Middleware Class\\Program.cs*",
+              "RelativeToolTip": "05.Custom Conventional Middleware Class\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:33:41.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
