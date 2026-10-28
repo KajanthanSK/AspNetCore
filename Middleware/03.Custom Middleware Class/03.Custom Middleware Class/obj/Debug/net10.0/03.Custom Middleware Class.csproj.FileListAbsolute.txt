@@ -1,0 +1,31 @@
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\bin\Debug\net10.0\appsettings.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\bin\Debug\net10.0\03.Custom Middleware Class.staticwebassets.endpoints.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\bin\Debug\net10.0\03.Custom Middleware Class.exe
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\bin\Debug\net10.0\03.Custom Middleware Class.deps.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\bin\Debug\net10.0\03.Custom Middleware Class.runtimeconfig.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\bin\Debug\net10.0\03.Custom Middleware Class.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\bin\Debug\net10.0\03.Custom Middleware Class.pdb
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\03.Custom Middleware Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\03.Custom Middleware Class.AssemblyInfoInputs.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\03.Custom Middleware Class.AssemblyInfo.cs
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\03.Custom Middleware Class.csproj.CoreCompileInputs.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\03.Custom Middleware Class.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\03.Custom Middleware Class.sourcelink.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\scopedcss\bundle\03.Custom Middleware Class.styles.css
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\03.Custom Middleware Class.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\refint\03.Custom Middleware Class.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\03.Custom Middleware Class.pdb
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\03.Custom Middleware Class.genruntimeconfig.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\ref\03.Custom Middleware Class.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\03.Custom Middleware Class\03.Custom Middleware Class\obj\Debug\net10.0\03.Custo.DAC8F3CC.Up2Date
