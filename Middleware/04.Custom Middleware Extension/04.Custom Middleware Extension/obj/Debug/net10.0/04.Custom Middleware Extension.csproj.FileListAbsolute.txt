@@ -1,0 +1,31 @@
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\bin\Debug\net10.0\appsettings.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\bin\Debug\net10.0\04.Custom Middleware Extension.staticwebassets.endpoints.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\bin\Debug\net10.0\04.Custom Middleware Extension.exe
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\bin\Debug\net10.0\04.Custom Middleware Extension.deps.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\bin\Debug\net10.0\04.Custom Middleware Extension.runtimeconfig.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\bin\Debug\net10.0\04.Custom Middleware Extension.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\bin\Debug\net10.0\04.Custom Middleware Extension.pdb
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\04.Custom Middleware Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\04.Custom Middleware Extension.AssemblyInfoInputs.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\04.Custom Middleware Extension.AssemblyInfo.cs
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\04.Custom Middleware Extension.csproj.CoreCompileInputs.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\04.Custom Middleware Extension.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\04.Custom Middleware Extension.sourcelink.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\scopedcss\bundle\04.Custom Middleware Extension.styles.css
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\04.Custom Middleware Extension.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\refint\04.Custom Middleware Extension.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\04.Custom Middleware Extension.pdb
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\04.Custom Middleware Extension.genruntimeconfig.cache
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\ref\04.Custom Middleware Extension.dll
+C:\Users\MT-0119\Documents\AspNetCore\Middleware\04.Custom Middleware Extension\04.Custom Middleware Extension\obj\Debug\net10.0\04.Custo.5E6056A5.Up2Date
