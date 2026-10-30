@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\06.UseWhen\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{588F95B8-5FDB-4227-9E8B-2307F23EE5EB}|06.UseWhen\\06.UseWhen.csproj|c:\\users\\mt-0119\\documents\\aspnetcore\\middleware\\06.usewhen\\06.usewhen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588F95B8-5FDB-4227-9E8B-2307F23EE5EB}|06.UseWhen\\06.UseWhen.csproj|solutionrelative:06.usewhen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\06.UseWhen\\06.UseWhen\\Program.cs",
+              "RelativeDocumentMoniker": "06.UseWhen\\Program.cs",
+              "ToolTip": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\06.UseWhen\\06.UseWhen\\Program.cs*",
+              "RelativeToolTip": "06.UseWhen\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:53:11.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
         {
           "DockedWidth": 160,
           "SelectedChildIndex": -1,

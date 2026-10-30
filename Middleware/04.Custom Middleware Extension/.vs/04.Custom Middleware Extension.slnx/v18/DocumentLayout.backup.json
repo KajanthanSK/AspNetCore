@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\04.Custom Middleware Extension\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C9D2C8-CA3C-4A3C-98F0-9CDC90D85D36}|04.Custom Middleware Extension\\04.Custom Middleware Extension.csproj|c:\\users\\mt-0119\\documents\\aspnetcore\\middleware\\04.custom middleware extension\\04.custom middleware extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C9D2C8-CA3C-4A3C-98F0-9CDC90D85D36}|04.Custom Middleware Extension\\04.Custom Middleware Extension.csproj|solutionrelative:04.custom middleware extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C9D2C8-CA3C-4A3C-98F0-9CDC90D85D36}|04.Custom Middleware Extension\\04.Custom Middleware Extension.csproj|c:\\users\\mt-0119\\documents\\aspnetcore\\middleware\\04.custom middleware extension\\04.custom middleware extension\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C9D2C8-CA3C-4A3C-98F0-9CDC90D85D36}|04.Custom Middleware Extension\\04.Custom Middleware Extension.csproj|solutionrelative:04.custom middleware extension\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C9D2C8-CA3C-4A3C-98F0-9CDC90D85D36}|04.Custom Middleware Extension\\04.Custom Middleware Extension.csproj|c:\\users\\mt-0119\\documents\\aspnetcore\\middleware\\04.custom middleware extension\\04.custom middleware extension\\04.custom middleware extension.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8C9D2C8-CA3C-4A3C-98F0-9CDC90D85D36}|04.Custom Middleware Extension\\04.Custom Middleware Extension.csproj|solutionrelative:04.custom middleware extension\\04.custom middleware extension.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\04.Custom Middleware Extension\\04.Custom Middleware Extension\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "04.Custom Middleware Extension\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\04.Custom Middleware Extension\\04.Custom Middleware Extension\\CustomMiddleware\\MyCustomMiddleware.cs*",
+              "RelativeToolTip": "04.Custom Middleware Extension\\CustomMiddleware\\MyCustomMiddleware.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:22:33.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04.Custom Middleware Extension",
+              "DocumentMoniker": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\04.Custom Middleware Extension\\04.Custom Middleware Extension\\04.Custom Middleware Extension.csproj",
+              "RelativeDocumentMoniker": "04.Custom Middleware Extension\\04.Custom Middleware Extension.csproj",
+              "ToolTip": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\04.Custom Middleware Extension\\04.Custom Middleware Extension\\04.Custom Middleware Extension.csproj*",
+              "RelativeToolTip": "04.Custom Middleware Extension\\04.Custom Middleware Extension.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-28T15:21:49.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\04.Custom Middleware Extension\\04.Custom Middleware Extension\\Program.cs",
+              "RelativeDocumentMoniker": "04.Custom Middleware Extension\\Program.cs",
+              "ToolTip": "C:\\Users\\MT-0119\\Documents\\AspNetCore\\Middleware\\04.Custom Middleware Extension\\04.Custom Middleware Extension\\Program.cs*",
+              "RelativeToolTip": "04.Custom Middleware Extension\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:21:21.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
         {
           "DockedWidth": 160,
           "SelectedChildIndex": -1,
